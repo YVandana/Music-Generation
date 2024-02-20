@@ -82,10 +82,12 @@ Here is the Video to View the Output (Directs to YouTube):
 [![Output](https://img.youtube.com/vi/03zDzlMZ2DA/0.jpg)](https://www.youtube.com/watch?v=03zDzlMZ2DA)
 
 
+Example Outputs can be found in the Outputs Folder in the Repository.
 
 ## Repository Structure
 - Code: This directory contains the implementation of the brain tumor detection and classification system. It includes script for data preprocessing, model generation and creating and downloading MP3 File.
 - Datasets: This directory is used to store the labeled dataset of MIDI Files.
+- Outout: This directory is used to store some MIDI and MP3 Outputs.
 - LICENSE: This file contains the license information for the project.
 
 ## Getting Started
